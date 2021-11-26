@@ -1,0 +1,5 @@
+1. class based vs function based views
+2. form
+3. post method and csrf token
+4. objects.all vs objects.filter
+5.
